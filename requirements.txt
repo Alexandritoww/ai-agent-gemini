@@ -1,0 +1,9 @@
+langchain
+langchain-classic
+langchain-community
+langchain-google-genai
+python-dotenv
+pydantic
+wikipedia
+ddgs
+mysql-connector-python
